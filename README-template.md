@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/azzykesuma/statPreview
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://responsivecard010101.netlify.app/)
 
 ## My process
 
@@ -49,7 +49,8 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+the media querry is quite complex, you need to adjust your style according to the width, and sometimes it is a bit messy. this project requires me to add the min width of 1440px 
+for the desktop style to be in effect, but even my screen resolution is below that. the preview in my screen is messed up.
 
 To see how you can add code snippets, see below:
 
